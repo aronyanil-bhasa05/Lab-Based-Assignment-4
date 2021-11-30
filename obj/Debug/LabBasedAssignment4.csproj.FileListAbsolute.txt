@@ -1,0 +1,8 @@
+D:\Nordic\C#\LBA4\LabBasedAssignment4\LabBasedAssignment4\bin\Debug\LabBasedAssignment4.exe.config
+D:\Nordic\C#\LBA4\LabBasedAssignment4\LabBasedAssignment4\bin\Debug\LabBasedAssignment4.exe
+D:\Nordic\C#\LBA4\LabBasedAssignment4\LabBasedAssignment4\bin\Debug\LabBasedAssignment4.pdb
+D:\Nordic\C#\LBA4\LabBasedAssignment4\LabBasedAssignment4\obj\Debug\LabBasedAssignment4.csproj.SuggestedBindingRedirects.cache
+D:\Nordic\C#\LBA4\LabBasedAssignment4\LabBasedAssignment4\obj\Debug\LabBasedAssignment4.csproj.CoreCompileInputs.cache
+D:\Nordic\C#\LBA4\LabBasedAssignment4\LabBasedAssignment4\obj\Debug\LabBasedAssignment4.exe
+D:\Nordic\C#\LBA4\LabBasedAssignment4\LabBasedAssignment4\obj\Debug\LabBasedAssignment4.pdb
+D:\Nordic\C#\LBA4\LabBasedAssignment4\LabBasedAssignment4\obj\Debug\LabBasedAssignment4.csproj.AssemblyReference.cache
